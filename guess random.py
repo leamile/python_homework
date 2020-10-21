@@ -7,7 +7,6 @@ Created on Wed Oct 21 15:01:56 2020
 
 import random
 n=random.randint(0, 100)
-print(n)
 m=eval(input('请输入一个整数:'))
 y = 1
 while m != n:
